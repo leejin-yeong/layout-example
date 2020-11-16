@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/sproutchat/static/js/main.ec870d56.chunk.js",
+    "main.js.map": "/sproutchat/static/js/main.ec870d56.chunk.js.map",
+    "runtime-main.js": "/sproutchat/static/js/runtime-main.d6099f7d.js",
+    "runtime-main.js.map": "/sproutchat/static/js/runtime-main.d6099f7d.js.map",
+    "static/js/2.b52bbf79.chunk.js": "/sproutchat/static/js/2.b52bbf79.chunk.js",
+    "static/js/2.b52bbf79.chunk.js.map": "/sproutchat/static/js/2.b52bbf79.chunk.js.map",
+    "index.html": "/sproutchat/index.html",
+    "static/js/2.b52bbf79.chunk.js.LICENSE.txt": "/sproutchat/static/js/2.b52bbf79.chunk.js.LICENSE.txt",
+    "static/media/icon.9771ff03.png": "/sproutchat/static/media/icon.9771ff03.png",
+    "static/media/title.d853e62f.png": "/sproutchat/static/media/title.d853e62f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6099f7d.js",
+    "static/js/2.b52bbf79.chunk.js",
+    "static/js/main.ec870d56.chunk.js"
+  ]
+}
